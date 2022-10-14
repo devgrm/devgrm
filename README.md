@@ -10,7 +10,7 @@
 
 
 I'm;
-- working as Developer Intern at KüçükÇalık Tekstil A.S,
+
 - MIS graduate,
 - currently learning mobile application system, kotlin and İOS
 
