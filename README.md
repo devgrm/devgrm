@@ -12,7 +12,7 @@
 I'm;
 
 - MIS graduate,
-- currently learning mobile application system, kotlin and İOS
+- currently learning mobile application system, kotlin and android
 
 
 
